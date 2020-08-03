@@ -8,7 +8,7 @@
 >
 > You get the hint and get straight to the point.
 >
-> "I've got case notes being automatically saved electronically, and anyone can now quickly review the statements provided by each perp's known associates. Eventually I'll want to let any search the notes, but that's later." You open your notebook and let her quickly scan what she's looking at.
+> "I've got case notes being automatically saved electronically, and anyone can now quickly review the statements provided by each perp's known associates. Eventually I'll want to let users search the notes, but that's later." You open your notebook and let her quickly scan what she's looking at.
 >
 > "Looks good," she says, abruptly.
 >
